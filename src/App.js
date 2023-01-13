@@ -4,10 +4,13 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={signature}/>
-      </header>
-      <a></a>
+      <div className='header'>
+      <div className="sword-animation">
+        <div className='sword'> </div>
+      </div>
+      <img src={signature} />
+
+    </div>
     </div>
   );
 }
