@@ -62,8 +62,8 @@
   top: -100%;
   left: 50%;
   transform: translateX(-50%);
-  animation: sword-animation 1s ease-in-out forwards;
-  animation-delay: 4.5s;
+  animation: sword-animation 0.4s ease-in-out forwards;
+  animation-delay: 3.6s;
 }
 
 @keyframes sword-animation {
